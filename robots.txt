@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://raja-shafqat.nexlyr.solutions/sitemap.xml
