@@ -24,7 +24,7 @@ Every page also has light and dark themes, a `/` or Ctrl K search over pages, to
 1. **WhatsApp 0339 2255800 and 0300 2029592.** Both are from his YouTube channel. To change, find and replace `923392255800` / `0339 2255800` (and the second number) across all HTML files.
 2. **Where he teaches.** Titan College (A Level faculty, announced Oct 2026), Highbrow College, Heuser College, earlier Credo College, from public college posts and his Facebook profile. Confirm the list and wording.
 3. **University of Karachi.** From his Facebook profile.
-4. **Photo.** No photo was supplied, so the site uses a typographic “R.S” portrait card. Send a good photo and it can go into the hero and about page.
+4. **Photo.** The studio portrait (cleaned up from his poster) is on the home hero, the about page and the share image.
 5. **“How classes run”** on the courses page describes a general teaching sequence. Adjust if he works differently.
 6. **Fees and timings** are never shown; every such question goes to WhatsApp.
 7. **Domain.** Canonical links, sitemap and robots use `https://raja-shafqat.nexlyr.solutions`. Find and replace if you use another domain.
